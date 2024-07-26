@@ -1,6 +1,6 @@
 # Uber NYC Driver Pay Prediction
 
-This repository contains the implementation of predicting Uber NYC driver pay using various machine learning and deep learning models: Linear Regresson, Artificial Neural Network (ANN), Random Forest, Long Short-Term Memory (LSTM), Bidirectional LSTM, and LSTM with Gated Recurrent Unit (GRU). The project utilizes the [Uber NYC for-hire vehicles trip data](https://www.kaggle.com/datasets/shuhengmo/uber-nyc-forhire-vehicles-trip-data-2021) dataset from Kaggle for training and evaluation.
+This repository contains the implementation of predicting Uber NYC driver pay using various machine learning and deep learning models: Artificial Neural Network (ANN), Random Forest, Long Short-Term Memory (LSTM), Bidirectional LSTM, and LSTM with Gated Recurrent Unit (GRU). The project utilizes the [Uber NYC for-hire vehicles trip data](https://www.kaggle.com/datasets/shuhengmo/uber-nyc-forhire-vehicles-trip-data-2021) dataset from Kaggle for training and evaluation.
 
 ## Introduction
 
